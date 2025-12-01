@@ -1,0 +1,1 @@
+export default function HomerAI(){return(<div><h1>Homer AI</h1></div>);}

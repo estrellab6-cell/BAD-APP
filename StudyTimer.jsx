@@ -1,0 +1,1 @@
+export default function StudyTimer(){return(<div><h1>Study Timer</h1></div>);}

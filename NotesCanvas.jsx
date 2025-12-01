@@ -1,0 +1,1 @@
+export default function NotesCanvas(){return(<div><h1>Notes Canvas</h1></div>);}

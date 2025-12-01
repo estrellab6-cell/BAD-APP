@@ -1,0 +1,1 @@
+export default function Uploads(){return(<div><h1>Uploads & Summaries</h1></div>);}
